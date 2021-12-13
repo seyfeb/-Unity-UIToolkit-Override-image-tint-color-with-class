@@ -1,0 +1,6 @@
+.my-button {
+    color: red;
+}
+.my-button.selected Image {
+    --unity-image-tint-color: green;
+}
